@@ -1,4 +1,4 @@
-<p>![localhost_3000_(iPhone 12 Pro) (4)](https://user-images.githubusercontent.com/113184805/198843748-99c6a859-f11c-482c-8c97-7daf7b8ee895.png)</p>
+![localhost_3000_(iPhone 12 Pro) (4)](https://user-images.githubusercontent.com/113184805/198843748-99c6a859-f11c-482c-8c97-7daf7b8ee895.png)
 
 
 

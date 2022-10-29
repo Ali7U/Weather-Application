@@ -1,9 +1,5 @@
-<img src="https://user-images.githubusercontent.com/113184805/198844261-3e216862-2f90-4316-8c88-b4d83f646aca.png" width="150" height="280">
+<img src="https://user-images.githubusercontent.com/113184805/198844261-3e216862-2f90-4316-8c88-b4d83f646aca.png" width="250" height="450">
 
-
-![localhost_3000_(iPhone 12 Pro) (4)]( | width="390" height="844")
-
-![localhost_3000_(iPhone 12 Pro) (4)](https://user-images.githubusercontent.com/113184805/198844261-3e216862-2f90-4316-8c88-b4d83f646aca.png)
 
 
 # Getting Started with Create React App

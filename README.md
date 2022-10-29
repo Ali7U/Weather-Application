@@ -1,7 +1,9 @@
-<img src="https://camo.githubusercontent.com/..." data-canonical-src="[https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png](https://user-images.githubusercontent.com/113184805/198843748-99c6a859-f11c-482c-8c97-7daf7b8ee895.png)" width="200" height="400" />
+<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://user-images.githubusercontent.com/113184805/198844261-3e216862-2f90-4316-8c88-b4d83f646aca.png" width="390" height="844" />
+
 
 ![localhost_3000_(iPhone 12 Pro) (4)]( | width="390" height="844")
 
+![localhost_3000_(iPhone 12 Pro) (4)](https://user-images.githubusercontent.com/113184805/198844261-3e216862-2f90-4316-8c88-b4d83f646aca.png)
 
 
 # Getting Started with Create React App
